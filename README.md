@@ -14,7 +14,7 @@
 ![Web3](https://img.shields.io/badge/Web3-3C3C3D?logo=web3.js&logoColor=white)
 
 # José: The Tireless Seeker of Knowledge and Mastery
-![Descripción alternativa](https://i.postimg.cc/RFLYRDyg/banner-github.webp)
+![Descripción alternativa](./banner_github.webp)
 
 ## "I will, therefore I am" – Friedrich Nietzsche
 
