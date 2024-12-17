@@ -51,6 +51,7 @@ To José, freedom lies in mastering his tools, in thinking for himself, and in n
 **GitHub:** [github.com/jlescalonap](https://github.com/jlescalonap)  
 **LinkedIn:** [linkedin.com/in/jlescalonap](https://www.linkedin.com/in/jlescalonap/)  
 **Portfolio:** [p-portfolio-nine.vercel.app/pt](https://p-portfolio-nine.vercel.app/pt)
+**Roadmaps Profile:** [https://roadmap.sh/u/jlescalonap](https://roadmap.sh/u/jlescalonap)
 
 ---
 
