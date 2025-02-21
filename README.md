@@ -40,8 +40,20 @@ To José, freedom lies in mastering his tools, in thinking for himself, and in n
 
 > "Thus spoke José, the Architect of Knowledge, the Warrior of the Digital Age."
 
----
+---  
 
+## Hack The Box Badges 
+
+<div style="display: flex;">
+  <a href="https://academy.hackthebox.com/achievement/badge/21068498-6637-11ef-864f-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" width="72" style="display: inline-block;">
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e2242bd2-bf70-11ee-a670-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="72" style="display: inline-block;">
+  </a>
+</div>  
+
+---
 
 **Venezuelan, 44 years old**  
 **Porto Velho – RO, Brazil**  
