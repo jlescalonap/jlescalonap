@@ -33,7 +33,9 @@
 
 ## 📚 Explorando y Aplicando
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat) ![Web3](https://img.shields.io/badge/-Web3-EF6820?logo=web3dotjs&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-1C1C1C?logo=ethereum&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat) ![Web3](https://img.shields.io/badge/-Web3-EF6820?logo=web3dotjs&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-1C1C1C?logo=ethereum&logoColor=white&style=flat)  
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/jlescalonap.png" alt="Your Image Badge" />
 
 
 ---
