@@ -20,17 +20,21 @@
 
 ## What I'm building
 
-### Multi-tenant learning platform · `in production`
+### [Tekne](https://tekne.school) · `in production`
 
-White-label B2B2C platform for a client, built as sole engineer.
+**Client project.** Multi-tenant learning platform, launched October 2026 and
+built as sole engineer.
 
-- **~350K lines of TypeScript** and **6,400+ automated tests** gating every merge
-- Four languages with zero translation drift
-- Per-tenant branding, subscriptions and granular RBAC
-- Tenant isolation enforced at the data layer
-- Encrypted per-tenant credentials with BIP-39 recovery
+- **18,700+ automated tests** across 922 files — *more test code than
+  production code*
+- **Stripe-driven installment-billing engine**: state machine with an idempotent
+  payment ledger, per-default grace windows, automated dunning, reversible
+  enrollment and certificate retention while debt is outstanding
+- Four languages with enforced translation parity (5,556 keys each, guarded by a
+  test)
+- Per-tenant branding, RBAC, encrypted per-tenant credentials, guest checkout
 
-`NestJS` `Next.js` `MongoDB` `Redis` `Railway` `Vercel`
+`NestJS` `Next.js 16` `React 19` `MongoDB` `Redis` `Stripe` `Railway` `Vercel`
 
 ### [EllaFirst](https://ellafirst.com/en-US) · `in production`
 
@@ -57,6 +61,19 @@ lead-generation platform with a 227-image optimization pipeline and local SEO
 with structured data.
 
 `Next.js` `TypeScript` `Tailwind`
+
+---
+
+## How I work
+
+I build with AI agents under my direction, not instead of it: contracts written
+before any implementation, adversarial multi-lens review of those contracts,
+construction in parallel worktrees, and mutation testing with counted mutants.
+Every line is reviewed and owned.
+
+Operating rules I hold to: no testing in production; before deleting anything in
+production, show who each row belongs to; and when a batch job reports success,
+verify the effect, never the report.
 
 ---
 
